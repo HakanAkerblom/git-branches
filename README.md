@@ -30,4 +30,7 @@ Detta gör vi i fliken pull request.
 
 <img src="assets/pull_requests.png" width = 400>
 
+---
+## Merge
 
+Efter pull request är det viktigt att varje person kör en pull till sin main branch och pull till sin egna branch.
