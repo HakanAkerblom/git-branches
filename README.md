@@ -30,4 +30,7 @@ Detta gör vi i fliken pull request.
 
 <img src="assets/pull_requests.png" width = 400>
 
+--
+## Merging
 
+Detta ska skapa en konflikt!!
