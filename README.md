@@ -4,7 +4,7 @@ Vi lägger till första raden och committar
 
 ## instructions branch
 
-Nu skapa vi en branch som heter instructions. Detta för vi med kommandot
+Nu skapa vi en branch som heter instructions. Detta gör vi med kommandot
 
 ```md
 git checkout -b instructions
@@ -23,5 +23,11 @@ För att checka branches som vi har:
 git branch
 ```
 
+## Pull request
+
+För att få mergea in ändringar från denna branch in till main så öppnar vi en pull request.
+Detta gör vi i fliken pull request.
+
+<img src="assets/pull_requests.png" width = 400>
 
 
